@@ -13,4 +13,4 @@
   </tr>
 </table>
 
-más texto.... RAMA_01 (modificado en local rama_01)
+más texto.... RAMA_01 (modificado en github)
